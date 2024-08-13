@@ -21,7 +21,11 @@
 ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣
 ```
 
+![alt](https://github.com/Europha/nix-frosten-files/blob/main/image.png)
 
+### Alert!
+
+_Since i didn't release any .nix configuration, maybe most of the packages needed to be installed manually. I planning to code something to make it more easy, but nix is ain't easy and actually, i don't have so much time to learn about packages and flakes or home manager structures. So if you know or have some ideas, i'll glad to hear. :D_
 
 
 
